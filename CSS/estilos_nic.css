@@ -1,0 +1,201 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+	webkit-box-sizing: border-box;
+	moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+body{
+	background:#C9E7EC;
+	font-size: 14px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	line-height: normal;
+	}
+.encabezado{
+	width: 980px;
+	margin:10px auto;
+}
+.contenedor{
+	width: 980px;
+	font-size: 18px;
+	margin-right: 5px;
+}
+.menubar{
+	width: 1050px;
+	margin: 10px auto;
+	background-color: lightcoral;
+}
+.menubar ul{
+	list-style: none;
+}
+.menubar li{
+	position: relative;
+	display: inline-block;
+}
+.menubar li a{
+	display: block;
+	padding: 15px 15px;
+	color: white;
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif'Verdana, "sans-serif";
+	text-decoration: none;
+	font-size: 20px;
+	font-weight: 500;
+}
+.encabezado figcaption{
+	color: lightcoral;
+	font-size: 20px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-style: italic;
+	text-align-last: right;
+}
+
+
+.main{
+	display: block;
+	background-color: #4DCFD0;
+	position: relative;
+}
+.main figure{
+	text-align: center;
+}
+.main h2{
+	color: white;
+	font-size: 50px;
+	margin-bottom: auto;
+	text-align-last: center;
+	padding: 20px;
+}
+.main h3{
+	color: lightcoral;
+	font-size: 35px;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif" ;
+	text-align-last: center;
+	padding: 2px;
+	font-style: normal
+}
+.main h4{
+	padding: 10px;
+	font-size: 20px;
+}
+.main article{
+	color: white;
+	padding: 10px;
+	font-size: 15px;
+	margin: 10px;
+	text-align: center;
+}
+.main figure{
+	padding: 10px;	
+}
+.main article h4{
+	font-size: 20px;
+}
+.main article p{
+	font-size: 15px;
+	text-align: center;
+	}
+
+#playas{
+	display: block;
+	background-color: #2E8FA2;
+	position: relative;
+}
+#playas h3{
+	font-size: 20px;
+	padding: 10px;
+	color: white;
+	text-align: center;
+	margin: auto;
+}
+#playas p{
+	color: white;
+	font-size: 15px;
+	text-align: center;
+	margin: 10px;
+	padding: none;
+}
+#playas figure{
+	padding: 10px;
+	text-align: center;
+}
+
+#volcanes{
+	display: block;
+	background-color: #1D7CAB;
+	position: relative;
+}
+
+#volcanes h3{
+	color: white;
+	padding: 15px;
+	font-size: 20px;
+	text-align: center;
+}
+#volcanes p{
+	color: white;
+	font-size: 15px;
+	text-align: center;
+	margin: 10px;
+}
+#volcanes figure{
+	text-align: center;
+	padding: 10px;
+}
+
+.barra{
+	display: block;
+	background-color: lightcoral;
+	position: relative;
+}
+.barra h3{
+	color: white;
+	font-size: 18px;
+}
+.barra{
+	position: relative;
+	display: block;
+	color: white;
+	padding: 15px;
+	text-align: center;
+	width: 1050px;
+	margin: 10px auto;
+	align-content: center;
+}
+
+footer{
+	display: block;
+	position: relative;
+	background-color: #43B4C1;
+}
+
+footer h4{
+	color: white;
+	font-size: 15px;
+	text-align: center;
+	padding: 5px;
+}
+footer h5{
+	color: white;
+	font-size: 13px;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	text-align: center;
+	padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
